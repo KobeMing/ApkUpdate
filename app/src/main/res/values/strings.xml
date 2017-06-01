@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ApkUpdate</string>
+
+    <string name="update_download_finish" translatable="false">下载完成</string>
+    <string name="update_download_start" translatable="false">开始下载</string>
+    <string name="update_download_failed" translatable="false">下载失败</string>
+    <string name="update_download_progressing" translatable="false">正在下载</string>
+</resources>
